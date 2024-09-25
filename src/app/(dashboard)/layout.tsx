@@ -16,7 +16,7 @@ export default function DashboarLayout({
           className="flex item-center justify-center lg:justify-start gap-2"
         >
           <Image src="/logo.png" alt="logo" width={32} height={32} />
-          <span className="hidden lg:block ">Al-Aafiyah School</span>
+          <span className="hidden lg:block font-bold ">Al-Aafiyah School</span>
         </Link>
         <Menu />
       </div>
